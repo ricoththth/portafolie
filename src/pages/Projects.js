@@ -1,7 +1,7 @@
 import React from 'react'
 import Footer from '../components/footer/Footer'
 import Navbar from '../components/navbar/Navbar'
-import Album from "../components/album/Album";
+import Album from '../components/album/Album'
 
 function Projects() {
   return (
