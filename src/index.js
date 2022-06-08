@@ -13,7 +13,8 @@ root.render(
   <BrowserRouter>
   
     <Routes>
-      <Route path = '/portafolie' element = {<Home/>}></Route>
+    <Route path = '/'  element = {<Home/>}></Route>
+      <Route path = '/portafolie'  element = {<Home/>}></Route>
       <Route path = '/Contact' element = {<Contact/>}></Route>
       <Route path = '/Projects' element = {<Projects/>}></Route>
       <Route path = '/Skills' element = {<Skills/>}></Route>

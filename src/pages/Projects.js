@@ -1,8 +1,15 @@
 import React from 'react'
+import Footer from '../components/footer/Footer'
+import Navbar from '../components/navbar/Navbar'
+import Album from "../components/album/Album";
 
 function Projects() {
   return (
-    <div>Projects</div>
+    <div>
+            <Navbar/>
+            <Album/>
+            <Footer/>
+    </div>
   )
 }
 
