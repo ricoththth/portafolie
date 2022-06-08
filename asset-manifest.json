@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/portafolie/static/css/main.073c9b0a.css",
-    "main.js": "/portafolie/static/js/main.dc8dca3e.js",
-    "static/js/787.dba3aef2.chunk.js": "/portafolie/static/js/787.dba3aef2.chunk.js",
-    "static/media/logo.svg": "/portafolie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portafolie/static/css/main.05cbbf23.css",
+    "main.js": "/portafolie/static/js/main.fcfff3de.js",
+    "static/media/banner-home.svg": "/portafolie/static/media/banner-home.2cdd176922137491358b3f1f74e95eb7.svg",
+    "static/media/insta.svg": "/portafolie/static/media/insta.4e15561a4f36fcd6c967b7f93cc3f23e.svg",
+    "static/media/mephoto.svg": "/portafolie/static/media/mephoto.144c0a1f8da8913f62bd569dd77092ff.svg",
+    "static/media/PorterFT-Regular.ttf": "/portafolie/static/media/PorterFT-Regular.f50959be37c3b836dd4d.ttf",
+    "static/media/PorterFT-SemiBold.ttf": "/portafolie/static/media/PorterFT-SemiBold.54239c00be552d2584aa.ttf",
+    "static/media/PorterFT-Light.ttf": "/portafolie/static/media/PorterFT-Light.70a0f892ccfe4ab22403.ttf",
+    "static/media/PorterFT-Bold.ttf": "/portafolie/static/media/PorterFT-Bold.4d2b2363b2e517ec8625.ttf",
+    "static/media/github.svg": "/portafolie/static/media/github.39d25bee9ca1baf5f58fce52913693d3.svg",
+    "static/media/linked.svg": "/portafolie/static/media/linked.efd64ab159f1c08a2605a371706bb357.svg",
     "index.html": "/portafolie/index.html",
-    "main.073c9b0a.css.map": "/portafolie/static/css/main.073c9b0a.css.map",
-    "main.dc8dca3e.js.map": "/portafolie/static/js/main.dc8dca3e.js.map",
-    "787.dba3aef2.chunk.js.map": "/portafolie/static/js/787.dba3aef2.chunk.js.map"
+    "main.05cbbf23.css.map": "/portafolie/static/css/main.05cbbf23.css.map",
+    "main.fcfff3de.js.map": "/portafolie/static/js/main.fcfff3de.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dc8dca3e.js"
+    "static/css/main.05cbbf23.css",
+    "static/js/main.fcfff3de.js"
   ]
 }
