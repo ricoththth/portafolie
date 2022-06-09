@@ -1,22 +1,41 @@
 {
   "files": {
-    "main.css": "/portafolie/static/css/main.05cbbf23.css",
-    "main.js": "/portafolie/static/js/main.fcfff3de.js",
+    "main.css": "/portafolie/static/css/main.3e1f63aa.css",
+    "main.js": "/portafolie/static/js/main.68dd200f.js",
+    "static/media/LOVE.svg": "/portafolie/static/media/LOVE.468e09efde6ef6b7a99abe75104a4c8e.svg",
+    "static/media/red.svg": "/portafolie/static/media/red.d4caf32b8162125db36fe5377e825ac4.svg",
+    "static/media/MIGUEL.svg": "/portafolie/static/media/MIGUEL.659d92b7d6882a1b4ee7e6c5c55b25cb.svg",
+    "static/media/FORJA.svg": "/portafolie/static/media/FORJA.8c9b9d60433355de850c8f94e5787a0a.svg",
+    "static/media/ANIMA.svg": "/portafolie/static/media/ANIMA.4d81da58c1a20ea4c1d653b118d009c0.svg",
+    "static/media/proc.svg": "/portafolie/static/media/proc.743e5540f1e2f89c494e54af042e75ab.svg",
     "static/media/banner-home.svg": "/portafolie/static/media/banner-home.2cdd176922137491358b3f1f74e95eb7.svg",
+    "static/media/linefilter.svg": "/portafolie/static/media/linefilter.b6d8619a406a4b3351c2a02ad3cd6c8e.svg",
+    "static/media/truzfilter.svg": "/portafolie/static/media/truzfilter.f3b36a4e3b5681fb803d7cfe99da653c.svg",
+    "static/media/wayofilter.svg": "/portafolie/static/media/wayofilter.8a758c8fa2d2bce386f36f4f387b44d9.svg",
     "static/media/insta.svg": "/portafolie/static/media/insta.4e15561a4f36fcd6c967b7f93cc3f23e.svg",
     "static/media/mephoto.svg": "/portafolie/static/media/mephoto.144c0a1f8da8913f62bd569dd77092ff.svg",
+    "static/media/html.png": "/portafolie/static/media/html.0ff377620db6060a5517.png",
+    "static/media/spark.png": "/portafolie/static/media/spark.76eac761d0262022a4b4.png",
+    "static/media/image 29.png": "/portafolie/static/media/image 29.060d06b296c79de90820.png",
     "static/media/PorterFT-Regular.ttf": "/portafolie/static/media/PorterFT-Regular.f50959be37c3b836dd4d.ttf",
     "static/media/PorterFT-SemiBold.ttf": "/portafolie/static/media/PorterFT-SemiBold.54239c00be552d2584aa.ttf",
     "static/media/PorterFT-Light.ttf": "/portafolie/static/media/PorterFT-Light.70a0f892ccfe4ab22403.ttf",
     "static/media/PorterFT-Bold.ttf": "/portafolie/static/media/PorterFT-Bold.4d2b2363b2e517ec8625.ttf",
     "static/media/github.svg": "/portafolie/static/media/github.39d25bee9ca1baf5f58fce52913693d3.svg",
+    "static/media/image 33.svg": "/portafolie/static/media/image 33.3b2a30e1b92b6e4faa879bcea365fa1d.svg",
+    "static/media/Ellipse 989.svg": "/portafolie/static/media/Ellipse 989.2eea5fec7cb80c3790a3d5fe88178aec.svg",
+    "static/media/image 32.svg": "/portafolie/static/media/image 32.73a973da7e30bc4772b9e2b3d989b3d6.svg",
     "static/media/linked.svg": "/portafolie/static/media/linked.efd64ab159f1c08a2605a371706bb357.svg",
+    "static/media/image 27.svg": "/portafolie/static/media/image 27.4a391b7067e054e5d86cf57fa1723159.svg",
+    "static/media/image 26.svg": "/portafolie/static/media/image 26.15ec2a935ca24455bdc8533299b6c3f5.svg",
+    "static/media/image 28.svg": "/portafolie/static/media/image 28.5609bf0bdc6ceceaf7a0505e563d7603.svg",
     "index.html": "/portafolie/index.html",
-    "main.05cbbf23.css.map": "/portafolie/static/css/main.05cbbf23.css.map",
-    "main.fcfff3de.js.map": "/portafolie/static/js/main.fcfff3de.js.map"
+    "static/media/image 25.svg": "/portafolie/static/media/image 25.72ff35026c53ba574aef54c980db0e8d.svg",
+    "main.3e1f63aa.css.map": "/portafolie/static/css/main.3e1f63aa.css.map",
+    "main.68dd200f.js.map": "/portafolie/static/js/main.68dd200f.js.map"
   },
   "entrypoints": [
-    "static/css/main.05cbbf23.css",
-    "static/js/main.fcfff3de.js"
+    "static/css/main.3e1f63aa.css",
+    "static/js/main.68dd200f.js"
   ]
 }
