@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from '../components/navbar/Navbar'
 
 function Error404() {
   return (
-    <div>Error404</div>
+    <div>
+      <Navbar/>
+    </div>
   )
 }
 
